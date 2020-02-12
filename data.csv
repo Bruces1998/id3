@@ -1,0 +1,15 @@
+Day,Outlook,Temperature,Humidity,Wind ,Play_Tennis
+1,S,H,H,W,N
+2,S,H,H,S,N
+3,O,H,H,W,Y
+4,R,M,H,W,Y
+5,R,C,N,W,Y
+6,R,C,N,S,N
+7,O,C,N,S,Y
+8,S,M,H,W,N
+9,S,C,N,W,Y
+10,R,M,N,W,Y
+11,S,M,N,S,Y
+12,O,M,H,S,Y
+13,O,H,N,W,Y
+14,R,M,H,S,N
